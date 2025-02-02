@@ -1,0 +1,7 @@
+2) Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+1. **HTML/CSS**: HTML estrutura o conteúdo e CSS define a aparência das páginas.
+2. **JavaScript**: Torna os sites interativos e dinâmicos.
+3. **Frameworks e Bibliotecas (React, Angular, Vue)**: Facilitam o desenvolvimento
